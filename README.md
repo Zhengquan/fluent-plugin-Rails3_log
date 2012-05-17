@@ -37,7 +37,7 @@ Processing by QuestionsController#show as JSON
   ...
   ...
   Rendered questions/show.json.jbuilder (20.3ms)
-Completed 200 OK in 38ms (Views: 25.2ms | ActiveRecord: 6.1ms | Sphinx: 0.0ms)
+Completed 200 OK in 25ms (Views: 16.9ms | ActiveRecord: 2.7ms | Sphinx: 0.0ms)
 ```
 
 Then following JSON is going to be made.
